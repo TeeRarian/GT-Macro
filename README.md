@@ -44,13 +44,13 @@
 ### __Friend: N2 (Numpad 2)__
 - Sends gifts to and receives gifts from friends.
 - __Modularity__
-  - Modular, can be placed anywhere before or after another modular macro.
+  - Modular, can be removed or placed anywhere before or after another modular macro.
 - __Safety__
   - Safe, assuming no prior macro fails.
 ### __Guild Attendance: N3 (Numpad 3)__
 - Claims the attendance reward from your Guild.
 - __Modularity__
-  - Modular, can be placed anywhere before or after another modular macro.
+  - Modular, can be removed or placed anywhere before or after another modular macro.
 - __Safety__
   - Unsafe, has not been tested on an account without a Guild.
 ### __Awakening Dungeon: N4 (Numpad 4)__
@@ -58,7 +58,7 @@
   - "Set to Remaining Free Entries" should already be enabled.
 - __Modularity__
   - Modular if and only if it is placed before `Boosted Dungeon: N5 (Numpad 5)`, which must be placed before `Tetis: N6 (Numpad 6)`.
-    - If the conditions above are satisfied, the bundle can be placed anywhere before or after another modular macro.
+    - If the conditions above are satisfied, the bundle can be removed or placed anywhere before or after another modular macro.
 - __Safety__
   - Safe, assuming no prior macro fails.
 ### __Boosted Dungeon: N5 (Numpad 5)__
@@ -67,7 +67,7 @@
   - You should have 100 Stamina.
 - __Modularity__
   - Modular if and only if it is placed after `Awakening Dungeon: N4 (Numpad 4)` and before `Tetis: N6 (Numpad 6)`.
-    - If the conditions above are satisfied, the bundle can be placed anywhere before or after another modular macro.
+    - If the conditions above are satisfied, the bundle can be removed or placed anywhere before or after another modular macro.
 - __Safety__
   - Unsafe, see `Controls` section.
 ### __Tetis: N6 (Numpad 6)__
@@ -75,27 +75,27 @@
   - "Set to Remaining Free Entries" should already be enabled.
 - __Modularity__
   - Modular if and only if it is placed after `Boosted Dungeon: N5 (Numpad 5)`, which must be placed after `Awakening Dungeon: N4 (Numpad 4)`.
-    - If the conditions above are satisfied, the bundle can be placed anywhere before or after another modular macro.
+    - If the conditions above are satisfied, the bundle can be removed or placed anywhere before or after another modular macro.
 - __Safety__
   - Safe, assuming no prior macro fails.
 ### __Inn and Little Princess: N7 (Numpad 7)__
 - Claims rewards from the Inn and the little princess' precious present.
 - __Modularity__
-  - Modular, can be placed anywhere before or after another modular macro.
+  - Modular, can be removed or placed anywhere before or after another modular macro.
   - Placing this macro too early may make it not claim the little princess' precious present, as the animation must progress enough for her precious present to be claimable.
 - __Safety__
   - Unsafe, you must not pan or zoom in Heavenhold after loading in.
 ### __Vending Machine: N8 (Numpad 8)__
 - Only works if you don't pan or zoom in Heavenhold after loading in.
 - __Modularity__
-  - Modular, can be placed anywhere before or after another modular macro.
+  - Modular, can be removed or placed anywhere before or after another modular macro.
 - __Safety__
   - Unsafe, you must not pan or zoom in Heavenhold after loading in.
   - This macro has not been tested with insufficient Soul Points.
 ### __Shop: N9 (Numpad 9)__
 - Buys the 2,000 free Gold and Level 15 Strengthening Hammer.
 - __Modularity__
-  - Modular, can be placed anywhere before or after another modular macro.
+  - Modular, can be removed or placed anywhere before or after another modular macro.
 - __Safety__
   - Unsafe, see `Controls` section.
   - Clicks on the second item in the Resource shop, which may not be the 2,000 free Gold.
@@ -103,12 +103,12 @@
 ### __Mission Book: N0 (Numpad 0)__
 - Claims mission rewards from the Daily tab.
 - __Modularity__
-  - Modular, can be placed anywhere before or after another modular macro, although discouraged.
+  - Modular, can be removed or placed anywhere before or after another modular macro, although discouraged.
   - Recommended to be placed after `N1-9` to claim the reward for 1000 Activity Points.
 ### __Stamina/Coffee: * (Numpad Asterisk)__
 - Spends 200 Gems to buy 100 Stamina.
 - __Modularity__
-  - Modular, can be placed anywhere before or after another modular macro, although discouraged because it is susceptible to not function as intended.
+  - Modular, can be removed or placed anywhere before or after another modular macro, although discouraged because it is susceptible to not function as intended.
   - Recommended to be placed last in `Dailies: PageUp (pg up)`.
     - Additionally, buying 100 Reserve Stamina now will help `__Dungeon: - (Numrow Minus or Hyphen or Dash)__` in `Nightlies: PageDown (pg dn)` run a Dungeon 15 times.
 - __Safety__
@@ -122,14 +122,14 @@
 - By default, Sweeps the Red Shard Dungeon 15 times.
   - You should have 150 Stamina.
 - __Modularity__
-  - Modular, can be placed anywhere before or after another modular macro.
+  - Modular, can be removed or placed anywhere before or after another modular macro.
 - __Safety__
   - Unsafe, see `Controls` section.
 ### __Event - Roadmap: 6 (Numrow 6)__
 - Claims Event Missions.
   - Does not exchange Event Points for rewards.
 - __Modularity__
-  - Modular, can be placed anywhere before or after another modular macro.
+  - Modular, can be removed or placed anywhere before or after another modular macro.
   - Replaces the event macro called in `Nightlies: PageDown (pg dn)`, or is called after it if there are 2 concurrent events with Event Points.
     - Call `sleep 16500` afterward.
 - __Safety__
@@ -140,7 +140,7 @@
   - Does not claim Lap Rewards or Monopoly Rewards.
 - Identical to `Event - Bingo Machine: 8 (Numrow 8)`.
 - __Modularity__
-  - Modular, can be placed anywhere before or after another modular macro.
+  - Modular, can be removed or placed anywhere before or after another modular macro.
   - Replaces the event macro called in `Nightlies: PageDown (pg dn)`, or is called after it if there are 2 concurrent events with Event Points.
     - Call `sleep 16500` afterward.
 - __Safety__
@@ -151,7 +151,7 @@
   - Does not use Event Points to draw numbers.
 - Identical to `Event - Heavenhold Marble: 7 (Numrow 7)`.
 - __Modularity__
-  - Modular, can be placed anywhere before or after another modular macro.
+  - Modular, can be removed or placed anywhere before or after another modular macro.
   - Replaces the event macro called in `Nightlies: PageDown (pg dn)`, or is called after it if there are 2 concurrent events with Event Points.
     - Call `sleep 16500` afterward.
   - Not tested yet.
@@ -162,7 +162,7 @@
   - Does not use Event Points to collect capsules.
   - Does not exchange Empty Capsules for rewards.
 - __Modularity__
-  - Modular, can be placed anywhere before or after another modular macro.
+  - Modular, can be removed or placed anywhere before or after another modular macro.
   - Replaces the event macro called in `Nightlies: PageDown (pg dn)`, or is called after it if there are 2 concurrent events with Event Points.
     - Call `sleep 16500` afterward.
 - __Safety__
@@ -173,7 +173,7 @@
   - "Set to Remaining Free Entries" should already be enabled.
   - Does not exchange Event Coins for other rewards.
 - __Modularity__
-  - Modular, can be placed anywhere before or after another modular macro.
+  - Modular, can be removed or placed anywhere before or after another modular macro.
   - Replaces the event macro called in `Nightlies: PageDown (pg dn)`, or is called after it if there are 2 concurrent events with Event Points.
     - Call `sleep 66000` afterward.
 - __Safety__
@@ -181,20 +181,20 @@
 ### __Mystery Evolution: + (Numpad Plus)__
 - Performs Mystery Evolution 2 times.
 - __Modularity__
-  - Modular, can be placed anywhere before or after another modular macro.
+  - Modular, can be removed or placed anywhere before or after another modular macro.
 - __Safety__
   - Unsafe, your Mystery Evolution settings should already be set to only select 1 and 2 star equipment, and to exclude incompleted Knowledge or Collections.
 ### __Pass: / (Slash)__
 - Claims Pass Missions then Pass Rewards for both the Guardian and Festival Passes.
 - __Modularity__
-  - Modular, can be placed anywhere before or after another modular macro, although discouraged.
+  - Modular, can be removed or placed anywhere before or after another modular macro, although discouraged.
   - Recommended to be placed towards the end of `Nightlies: PageDown (pg dn)` so that you do not complete another mission after already claiming Pass Missions.
 - __Safety__
   - Safe, assuming no prior macro fails.
 ### __Mailbox: = (Equals)__
 - Claims mail from both the General and Manage categories.
 - __Modularity__
-  - Modular, can be placed anywhere before or after another modular macro, although discouraged because it is susceptible to not function as intended.
+  - Modular, can be removed or placed anywhere before or after another modular macro, although discouraged because it is susceptible to not function as intended.
   - Recommended to be placed last in `Dailies: PageUp (pg up)`.
 - __Safety__
   - Unsafe, will not function as intended if clicking Receive All will make you exceed 3000 Stamina.
@@ -204,7 +204,7 @@
 - Can be ran after you see Heavenhold.
 - Watches the ad for the additional Awakening Dungeon entry, but does not do the additional run for you, so you must do it manually.
 - __Modularity__
-  - Modular, can be placed anywhere before or after another modular macro, although HIGHLY discouraged because it is susceptible to not function as intended.
+  - Modular, can be removed or placed anywhere before or after another modular macro, although HIGHLY discouraged because it is susceptible to not function as intended.
   - Recommended to be placed last in either `Dailies: PageUp (pg up)` or `Nightlies: PageDown (pg dn)`.
     - Call `sleep 617000` afterward.
 - __Safety__
@@ -218,7 +218,7 @@
   - If the macro clicks Confirm too early, it will not use 5 Colosseum Entry tickets.
   - Most attacks will not take that long even on 1x speed.
 - __Modularity__
-  - Modular, can be placed anywhere before or after another modular macro.
+  - Modular, can be removed or placed anywhere before or after another modular macro.
   - Recommended to be placed between `Mission Book: N0 (Numpad 0)` and `Stamina/Coffee: * (Numpad Asterisk)` in `Dailies: PageUp (pg up)`.
     - Call `sleep 387000` afterward.
   - Recommended to be placed between `Mystery Evolution: + (Numpad Plus)` and `Pass: / (Slash)` in `Nightlies: PageDown (pg dn)`.
