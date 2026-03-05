@@ -258,7 +258,7 @@
 - Place it on "Evolution Dungeon" or "Resource / Awakening Dungeon".
 - Affects `Boosted Dungeon: N5 (Numpad 5)`.
 ### __] (Right Bracket)__
-- Place it on "-10   Sweep" for the one you want.
+- Place it on "-10 Sweep" for the one you want.
 - Affects `Boosted Dungeon: N5 (Numpad 5)`.
 ### __\ (Backslash)__
 - Needs to be moved to the Equipment shop when the Event Shop becomes active or inactive.
@@ -267,7 +267,7 @@
 - Place it on "Myth Dungeon" or "Resource / Awakening Dungeon".
 - Affects `Dungeon: - (Numrow Minus or Hyphen or Dash)`.
 ### __' (Apostrophe)__
-- Place it on "-10   Sweep" for the one you want.
+- Place it on "-10 Sweep" for the one you want.
 - Affects `Dungeon: - (Numrow Minus or Hyphen or Dash)`.
 ### __, (Comma)__
 - By default, clicks on the first event in the Ongoing Events list.
