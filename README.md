@@ -232,7 +232,8 @@
   - Only to be used manually.
 - __Safety__
   - Safe.
-## Controls
+
+# Controls
 ### __WASD__
 - Movement.
 ### __I__
