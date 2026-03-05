@@ -1,16 +1,16 @@
-## Instructions
+# Instructions
 1. Open Guardian Tales in MuMu.
-- Click on "..." (Main menu) in the title bar.
-- Click on "Keyboard & Mouse/Gamepad".
-- Click on "Manage".
-- Click on "Import".
-- Click on "Local import".
-- Select the "com.kakaogames.gdts-Guardian Tales.json" file.
-- Click on the newly added key bind scheme.
-- Optional: Click "More" then "Rename" to rename the key bind scheme.
-- Click "Apply".
+2. Click on "..." (Main menu) in the title bar.
+3. Click on "Keyboard & Mouse/Gamepad".
+4. Click on "Manage".
+5. Click on "Import".
+6. Click on "Local import".
+7. Select the "com.kakaogames.gdts-Guardian Tales.json" file.
+8. Click on the newly added key bind scheme.
+9. Optional: Click "More" then "Rename" to rename the key bind scheme.
+10. Click "Apply".
 
-## Important Notes
+# Important Notes
 - Read everything so changes you want to make to the macros don't break anything.
 - Read the `Controls` section (at the bottom) so you don't brick your account.
 - The macros below are safe (won't waste your resources) unless stated otherwise.
