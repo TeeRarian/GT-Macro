@@ -12,7 +12,9 @@
 11. Click "Apply".
 
 In step 7, you can select "com.kakaogames.gdts-Guardian Tales with Colosseum.json" instead if you want the compilation macros to do Colosseum for you.
+
 In step 9, you can select "com.kakaogames.gdts-Guardian Tales 2 Events with Colosseum.json" instead if you want the compilation macros to do Colosseum for you.
+
 The reason for step 9 is because having both versions will make it easier to edit the macros when 2 concurrent events with Event Points start and end.
 
 # Important Notes
