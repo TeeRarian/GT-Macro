@@ -221,7 +221,7 @@
   - Modular, can be removed or placed anywhere before or after another modular macro.
   - Recommended to be placed between `Mission Book: N0 (Numpad 0)` and `Stamina/Coffee: * (Numpad Asterisk)` in `Dailies: PageUp (pg up)`.
     - Call `sleep 387000` afterward.
-  - Recommended to be placed between `Mystery Evolution: + (Numpad Plus)` and `Pass: / (Slash)` in `Nightlies: PageDown (pg dn)`.
+  - Recommended to be placed between `Pass: / (Slash)` and `Mailbox: = (Equals)` in `Nightlies: PageDown (pg dn)`.
     - Call `sleep 387000` afterward.
 ## Excavation Camp: End (end)
 - By default, not included in the `Dailies: PageUp (pg up)` compilation macro.
