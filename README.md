@@ -1,5 +1,10 @@
+Guardian Tales is a game designed to make you to log in at least once in the morning and once at night.
+These macros do what you should be doing on your account for your first login and last logins of the day.
+However, they do not do what you should be doing on your account every week, such as buying certain items that reset weekly from the Shop.
+They also do not do anything that heavily desires manual input, such as Arena, Master Arena, Death Match, or Co-op Expedition.
+
 # Instructions
-1. Open Guardian Tales in MuMu.
+1. Open Guardian Tales in MuMuPlayer (also known as MuMu, an Android emulator).
 2. Click on "..." (Main menu) in the title bar.
 3. Click on "Keyboard & Mouse/Gamepad".
 4. Click on "Manage".
@@ -16,6 +21,12 @@ In step 7, you can select "com.kakaogames.gdts-Guardian Tales with Colosseum.jso
 In step 9, you can select "com.kakaogames.gdts-Guardian Tales 2 Events with Colosseum.json" instead if you want the compilation macros to do Colosseum for you.
 
 The reason for step 9 is because having both versions will make it easier to edit the macros when 2 concurrent events with Event Points start and end.
+
+# Usage
+- For your login in the morning, press PageUp (pg up) on your keyboard after the first Attendance Check shows up on top of Heavenhold.
+- For your login at night, Press PageDown (pg dn) on your keyboard after you see Heavenhold.
+
+These keys can be remapped if you do not have them on your keyboard.
 
 # Important Notes
 - Some macros may require you to make changes for the compilation macro to function as intended.
