@@ -1,7 +1,11 @@
+# Description
 Guardian Tales is a game designed to make you to log in at least once in the morning and once at night.
 These macros do what you should be doing on your account for your first login and last logins of the day.
 However, they do not do what you should be doing on your account every week, such as buying certain items that reset weekly from the Shop.
 They also do not do anything that heavily desires manual input, such as Arena, Master Arena, Death Match, or Co-op Expedition.
+
+# [Download MuMuPlayer](https://www.mumuplayer.com)
+MuMuPlayer, or MuMu, is an Android emulator. These macros were created in MuMu, and I am not aware of any other emulators that they are compatible with.
 
 # Instructions
 1. Open Guardian Tales in MuMuPlayer (also known as MuMu, an Android emulator).
