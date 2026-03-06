@@ -5,12 +5,14 @@
 4. Click on "Manage".
 5. Click on "Import".
 6. Click on "Local import".
-7. Select the "com.kakaogames.gdts-Guardian Tales.json" file. It is identical to "com.kakaogames.gdts-Guardian Tales with Colosseum.json", except that it does not do Colosseum for you.
+7. Select the "com.kakaogames.gdts-Guardian Tales.json" file.
 8. Optional: Click "More" then "Rename" to rename the key bind scheme.
-9. Optional: Repeat steps 5-8 for the "com.kakaogames.gdts-Guardian Tales 2 Events.json" file. It is identical to "com.kakaogames.gdts-Guardian Tales 2 Events with Colosseum.json", except that it does not do Colosseum for you.
+9. Optional: Repeat steps 5-8 for the "com.kakaogames.gdts-Guardian Tales 2 Events.json" file.
   - Having both this version and the normal one will make it easier to edit the macros when 2 concurrent events with Event Points start and end.
 10. Click on one of the newly added key bind schemes.
 11. Click "Apply".
+In step 7, you can select "com.kakaogames.gdts-Guardian Tales with Colosseum.json" instead if you want the compilation macros to do Colosseum for you.
+In step 9, you can select "com.kakaogames.gdts-Guardian Tales 2 Events with Colosseum.json" instead if you want the compilation macros to do Colosseum for you.
 
 # Important Notes
 - Some macros may require you to make changes for the compilation macro to function as intended.
