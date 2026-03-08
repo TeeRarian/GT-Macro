@@ -50,11 +50,12 @@ These keys can be remapped if you do not have them on your keyboard.
 - Can be ran after the first Attendance Check shows up on top of Heavenhold.
   - The home screen must be Heavenhold (not My Room) before running.
 ### __Attendance: N1 (Numpad 1)__
-- By default, clicks 6 times, going through 3 attendance checks.
-  - For each additional attendance check, increase the number of loops in this macro by 2.
-    - Increase the sleep time after `key_release N1` in `Dailies: PageUp (pg up)` by 3000.
-  - For each package popup, at the end of this macro, call `key_press T`, then `key_release T`, and then `sleep 1500`.
-    - Increase the sleep time after `key_release N1` in `Dailies: PageUp (pg up)` by 1500.
+- By default, clicks 6 times, going through 3 attendance checks, then clicks `T` 10 times, which clicks on "Do not display again today." on the package popup, if any.
+  - This already clicks enough time to be able to go through the largest number of attendance checks and package popups the game has given its players, but if necessary:
+    - For each additional attendance check, increase the number of loops of the first loop by 2.
+      - Increase the sleep time after `key_release N1` in `Dailies: PageUp (pg up)` by 3000.
+    - For each additional package popup, increase the number of loops of the second loop by 1.
+      - Increase the sleep time after `key_release T` in `Dailies: PageUp (pg up)` by 500.
 - __Modularity__
   - Not modular, should be the first macro ran in `Dailies: PageUp (pg up)`.
   - Can be removed from `Dailies: PageUp (pg up)`, but you will need to manually go through every attendance check and package popup.
