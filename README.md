@@ -153,7 +153,7 @@ These keys can be remapped if you do not have them on your keyboard.
 - __Modularity__
   - Modular, can be removed or placed anywhere before or after another modular macro.
   - Replaces the event macro called in `Nightlies: PageDown (pg dn)`, or is called after it if there are 2 concurrent events with Event Points.
-    - Call `sleep 16500` afterward.
+    - Call `sleep 18000` afterward.
 - __Safety__
   - Unsafe, see `Controls` section.
 ### __Event - Heavenhold Marble: 7 (Numrow 7)__
@@ -164,7 +164,7 @@ These keys can be remapped if you do not have them on your keyboard.
 - __Modularity__
   - Modular, can be removed or placed anywhere before or after another modular macro.
   - Replaces the event macro called in `Nightlies: PageDown (pg dn)`, or is called after it if there are 2 concurrent events with Event Points.
-    - Call `sleep 16500` afterward.
+    - Call `sleep 18000` afterward.
 - __Safety__
   - Unsafe, see `Controls` section.
   - Not tested yet.
@@ -175,7 +175,7 @@ These keys can be remapped if you do not have them on your keyboard.
 - __Modularity__
   - Modular, can be removed or placed anywhere before or after another modular macro.
   - Replaces the event macro called in `Nightlies: PageDown (pg dn)`, or is called after it if there are 2 concurrent events with Event Points.
-    - Call `sleep 16500` afterward.
+    - Call `sleep 18000` afterward.
   - Not tested yet.
 - __Safety__
   - Unsafe, see `Controls` section.
@@ -186,7 +186,7 @@ These keys can be remapped if you do not have them on your keyboard.
 - __Modularity__
   - Modular, can be removed or placed anywhere before or after another modular macro.
   - Replaces the event macro called in `Nightlies: PageDown (pg dn)`, or is called after it if there are 2 concurrent events with Event Points.
-    - Call `sleep 16500` afterward.
+    - Call `sleep 18000` afterward.
 - __Safety__
   - Unsafe, see `Controls` section.
   - Not tested yet.
@@ -197,7 +197,7 @@ These keys can be remapped if you do not have them on your keyboard.
 - __Modularity__
   - Modular, can be removed or placed anywhere before or after another modular macro.
   - Replaces the event macro called in `Nightlies: PageDown (pg dn)`, or is called after it if there are 2 concurrent events with Event Points.
-    - Call `sleep 66000` afterward.
+    - Call `sleep 67500` afterward.
 - __Safety__
   - Unsafe, see `Controls` section.
 ### __Mystery Evolution: + (Numpad Plus)__
@@ -242,9 +242,9 @@ These keys can be remapped if you do not have them on your keyboard.
 - __Modularity__
   - Modular, can be removed or placed anywhere before or after another modular macro.
   - Recommended to be placed between `Mission Book: N0 (Numpad 0)` and `Stamina/Coffee: * (Numpad Asterisk)` in `Dailies: PageUp (pg up)`.
-    - Call `sleep 460500` afterward.
+    - Call `sleep 463500` afterward.
   - Recommended to be placed between `Pass: / (Slash)` and `Mailbox: = (Equals)` in `Nightlies: PageDown (pg dn)`.
-    - Call `sleep 460500` afterward.
+    - Call `sleep 463500` afterward.
 ## Excavation Camp: End (end)
 - By default, not included in the `Dailies: PageUp (pg up)` compilation macro.
 - By default, not included in the `Nightlies: PageDown (pg dn)` compilation macro.
