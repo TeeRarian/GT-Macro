@@ -176,7 +176,6 @@ These keys can be remapped if you do not have them on your keyboard.
   - Modular, can be removed or placed anywhere before or after another modular macro.
   - Replaces the event macro called in `Nightlies: PageDown (pg dn)`, or is called after it if there are 2 concurrent events with Event Points.
     - Call `sleep 18000` afterward.
-  - Not tested yet.
 - __Safety__
   - Unsafe, see `Controls` section.
 ### __Event - Giant Capsule Machine: 9 (Numrow 9)__
