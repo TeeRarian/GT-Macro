@@ -21,7 +21,7 @@
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.3450704225352113,
-                    "rel_y": 0.9040333796940193
+                    "rel_y": 0.9040333796940194
                 },
                 "visibility": true
             },
@@ -39,7 +39,7 @@
             ],
             "rel_work_position": {
                 "rel_x": 0.3450704225352113,
-                "rel_y": 0.9040333796940193
+                "rel_y": 0.9040333796940194
             },
             "release_actions": [
             ],
@@ -53,7 +53,7 @@
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.2084740182594322,
-                    "rel_y": 0.9037898095917201
+                    "rel_y": 0.9037898095917202
                 },
                 "visibility": true
             },
@@ -166,7 +166,7 @@
             ],
             "rel_work_position": {
                 "rel_x": 0.2084740182594322,
-                "rel_y": 0.9037898095917201
+                "rel_y": 0.9037898095917202
             },
             "release_actions": [
             ],
@@ -179,8 +179,8 @@
                 "description": "",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.9408594989955497,
-                    "rel_y": 0.9652294853963836
+                    "rel_x": 0.9408594989955498,
+                    "rel_y": 0.9652294853963838
                 },
                 "visibility": true
             },
@@ -208,8 +208,8 @@
                 "sleep:1500"
             ],
             "rel_work_position": {
-                "rel_x": 0.9408594989955497,
-                "rel_y": 0.9652294853963836
+                "rel_x": 0.9408594989955498,
+                "rel_y": 0.9652294853963838
             },
             "release_actions": [
             ],
@@ -223,7 +223,7 @@
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.7558685446009391,
-                    "rel_y": 0.9652294853963836
+                    "rel_y": 0.9652294853963838
                 },
                 "visibility": true
             },
@@ -255,7 +255,7 @@
             ],
             "rel_work_position": {
                 "rel_x": 0.7558685446009391,
-                "rel_y": 0.9652294853963836
+                "rel_y": 0.9652294853963838
             },
             "release_actions": [
             ],
@@ -269,7 +269,7 @@
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.7097026604068858,
-                    "rel_y": 0.9652294853963836
+                    "rel_y": 0.9652294853963838
                 },
                 "visibility": true
             },
@@ -301,7 +301,7 @@
             ],
             "rel_work_position": {
                 "rel_x": 0.7097026604068858,
-                "rel_y": 0.9652294853963836
+                "rel_y": 0.9652294853963838
             },
             "release_actions": [
             ],
@@ -315,7 +315,7 @@
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.6635367762128327,
-                    "rel_y": 0.9652294853963836
+                    "rel_y": 0.9652294853963838
                 },
                 "visibility": true
             },
@@ -347,7 +347,7 @@
             ],
             "rel_work_position": {
                 "rel_x": 0.6635367762128327,
-                "rel_y": 0.9652294853963836
+                "rel_y": 0.9652294853963838
             },
             "release_actions": [
             ],
@@ -361,7 +361,7 @@
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.6173708920187795,
-                    "rel_y": 0.9652294853963836
+                    "rel_y": 0.9652294853963838
                 },
                 "visibility": true
             },
@@ -393,7 +393,7 @@
             ],
             "rel_work_position": {
                 "rel_x": 0.6173708920187795,
-                "rel_y": 0.9652294853963836
+                "rel_y": 0.9652294853963838
             },
             "release_actions": [
             ],
@@ -407,7 +407,7 @@
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.034194537365394975,
-                    "rel_y": 0.90125173852573
+                    "rel_y": 0.9012517385257298
                 },
                 "visibility": true
             },
@@ -454,7 +454,7 @@
             ],
             "rel_work_position": {
                 "rel_x": 0.034194537365394975,
-                "rel_y": 0.90125173852573
+                "rel_y": 0.9012517385257298
             },
             "release_actions": [
             ],
@@ -468,7 +468,7 @@
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.8020344287949922,
-                    "rel_y": 0.9652294853963836
+                    "rel_y": 0.9652294853963838
                 },
                 "visibility": true
             },
@@ -546,7 +546,7 @@
             ],
             "rel_work_position": {
                 "rel_x": 0.8020344287949922,
-                "rel_y": 0.9652294853963836
+                "rel_y": 0.9652294853963838
             },
             "release_actions": [
             ],
@@ -584,7 +584,7 @@
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.5712050078247263,
-                    "rel_y": 0.9652294853963836
+                    "rel_y": 0.9652294853963838
                 },
                 "visibility": true
             },
@@ -624,7 +624,7 @@
             ],
             "rel_work_position": {
                 "rel_x": 0.5712050078247263,
-                "rel_y": 0.9652294853963836
+                "rel_y": 0.9652294853963838
             },
             "release_actions": [
             ],
@@ -637,8 +637,8 @@
                 "description": "",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.4788732394366195,
-                    "rel_y": 0.9652294853963836
+                    "rel_x": 0.47887323943661947,
+                    "rel_y": 0.9652294853963838
                 },
                 "visibility": true
             },
@@ -661,8 +661,8 @@
                 "sleep:1500"
             ],
             "rel_work_position": {
-                "rel_x": 0.4788732394366195,
-                "rel_y": 0.9652294853963836
+                "rel_x": 0.47887323943661947,
+                "rel_y": 0.9652294853963838
             },
             "release_actions": [
             ],
@@ -675,8 +675,8 @@
                 "description": "",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.24764767637521404,
-                    "rel_y": 0.9653786402501155
+                    "rel_x": 0.24764767637521398,
+                    "rel_y": 0.9653786402501157
                 },
                 "visibility": true
             },
@@ -708,8 +708,8 @@
                 "stop_loop"
             ],
             "rel_work_position": {
-                "rel_x": 0.24764767637521404,
-                "rel_y": 0.9653786402501155
+                "rel_x": 0.24764767637521398,
+                "rel_y": 0.9653786402501157
             },
             "release_actions": [
             ],
@@ -770,7 +770,7 @@
                 "description": "",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.10998278069671959,
+                    "rel_x": 0.1099827806967196,
                     "rel_y": 0.9652914718291034
                 },
                 "visibility": true
@@ -793,7 +793,7 @@
                 "sleep:1500"
             ],
             "rel_work_position": {
-                "rel_x": 0.10998278069671959,
+                "rel_x": 0.1099827806967196,
                 "rel_y": 0.9652914718291034
             },
             "release_actions": [
@@ -808,7 +808,7 @@
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.06298536604510377,
-                    "rel_y": 0.9652294853963836
+                    "rel_y": 0.9652294853963838
                 },
                 "visibility": true
             },
@@ -835,7 +835,7 @@
             ],
             "rel_work_position": {
                 "rel_x": 0.06298536604510377,
-                "rel_y": 0.9652294853963836
+                "rel_y": 0.9652294853963838
             },
             "release_actions": [
             ],
@@ -958,7 +958,7 @@
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.5346459063806184,
-                    "rel_y": 0.8949123006876489
+                    "rel_y": 0.8949123006876488
                 },
                 "visibility": true
             },
@@ -970,7 +970,7 @@
             },
             "rel_work_position": {
                 "rel_x": 0.5346459063806184,
-                "rel_y": 0.8949123006876489
+                "rel_y": 0.8949123006876488
             },
             "type": "Click"
         },
@@ -981,8 +981,8 @@
                 "description": "",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.46524355698183517,
-                    "rel_y": 0.8941599305966758
+                    "rel_x": 0.4652435569818352,
+                    "rel_y": 0.8941599305966756
                 },
                 "visibility": true
             },
@@ -993,8 +993,8 @@
                 "virtual_key": 88
             },
             "rel_work_position": {
-                "rel_x": 0.46524355698183517,
-                "rel_y": 0.8941599305966758
+                "rel_x": 0.4652435569818352,
+                "rel_y": 0.8941599305966756
             },
             "type": "Click"
         },
@@ -1006,7 +1006,7 @@
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.3978538460014659,
-                    "rel_y": 0.8941599305966758
+                    "rel_y": 0.8941599305966756
                 },
                 "visibility": true
             },
@@ -1018,7 +1018,7 @@
             },
             "rel_work_position": {
                 "rel_x": 0.3978538460014659,
-                "rel_y": 0.8941599305966758
+                "rel_y": 0.8941599305966756
             },
             "type": "Click"
         },
@@ -1029,7 +1029,7 @@
                 "text": "S",
                 "virtual_key": 83
             },
-            "editor_icon_scale": 1.0585419734904273,
+            "editor_icon_scale": 1.0660731021555767,
             "first_point_policy": {
                 "handle_type": "Move",
                 "idle_before_first_press": 0,
@@ -1116,9 +1116,9 @@
             },
             "key": {
                 "device": "keyboard",
-                "scan_code": 5,
-                "text": "4",
-                "virtual_key": 52
+                "scan_code": 4,
+                "text": "3",
+                "virtual_key": 51
             },
             "rel_work_position": {
                 "rel_x": 0.7916091696535245,
@@ -1140,9 +1140,9 @@
             },
             "key": {
                 "device": "keyboard",
-                "scan_code": 4,
-                "text": "3",
-                "virtual_key": 51
+                "scan_code": 3,
+                "text": "2",
+                "virtual_key": 50
             },
             "rel_work_position": {
                 "rel_x": 0.7150104540023895,
@@ -1164,9 +1164,9 @@
             },
             "key": {
                 "device": "keyboard",
-                "scan_code": 3,
-                "text": "2",
-                "virtual_key": 50
+                "scan_code": 2,
+                "text": "1",
+                "virtual_key": 49
             },
             "rel_work_position": {
                 "rel_x": 0.6789814814814814,
@@ -1182,19 +1182,19 @@
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.6545788530465949,
-                    "rel_y": 0.7733333333333329
+                    "rel_y": 0.7733333333333328
                 },
                 "visibility": true
             },
             "key": {
                 "device": "keyboard",
-                "scan_code": 2,
-                "text": "1",
-                "virtual_key": 49
+                "scan_code": 5,
+                "text": "4",
+                "virtual_key": 52
             },
             "rel_work_position": {
                 "rel_x": 0.6545788530465949,
-                "rel_y": 0.7733333333333329
+                "rel_y": 0.7733333333333328
             },
             "type": "Click"
         },
@@ -1206,7 +1206,7 @@
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.8964226458658988,
-                    "rel_y": 0.819209502011894
+                    "rel_y": 0.8192095020118939
                 },
                 "visibility": true
             },
@@ -1218,7 +1218,7 @@
             },
             "rel_work_position": {
                 "rel_x": 0.8964226458658988,
-                "rel_y": 0.819209502011894
+                "rel_y": 0.8192095020118939
             },
             "type": "Click"
         },
@@ -1283,7 +1283,7 @@
                 "description": "",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.8960578089138778,
+                    "rel_x": 0.8960578089138777,
                     "rel_y": 0.367605633802817
                 },
                 "visibility": true
@@ -1295,7 +1295,7 @@
                 "virtual_key": 81
             },
             "rel_work_position": {
-                "rel_x": 0.8960578089138778,
+                "rel_x": 0.8960578089138777,
                 "rel_y": 0.367605633802817
             },
             "type": "Click"
@@ -1331,8 +1331,8 @@
                 "description": "",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.811645569620253,
-                    "rel_y": 0.4410441044104409
+                    "rel_x": 0.8116455696202531,
+                    "rel_y": 0.44104410441044084
                 },
                 "visibility": true
             },
@@ -1343,8 +1343,8 @@
                 "virtual_key": 82
             },
             "rel_work_position": {
-                "rel_x": 0.811645569620253,
-                "rel_y": 0.4410441044104409
+                "rel_x": 0.8116455696202531,
+                "rel_y": 0.44104410441044084
             },
             "type": "Click"
         },
@@ -1380,7 +1380,7 @@
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.03761755485893416,
-                    "rel_y": 0.04874651810584958
+                    "rel_y": 0.04874651810584957
                 },
                 "visibility": true
             },
@@ -1392,7 +1392,7 @@
             },
             "rel_work_position": {
                 "rel_x": 0.03761755485893416,
-                "rel_y": 0.04874651810584958
+                "rel_y": 0.04874651810584957
             },
             "type": "Click"
         },
@@ -1491,7 +1491,7 @@
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.29386384485947387,
-                    "rel_y": 0.9653805773261378
+                    "rel_y": 0.9653805773261377
                 },
                 "visibility": true
             },
@@ -1511,7 +1511,7 @@
             ],
             "rel_work_position": {
                 "rel_x": 0.29386384485947387,
-                "rel_y": 0.9653805773261378
+                "rel_y": 0.9653805773261377
             },
             "release_actions": [
             ],
@@ -1525,7 +1525,7 @@
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.340078786897631,
-                    "rel_y": 0.9653805773261378
+                    "rel_y": 0.9653805773261377
                 },
                 "visibility": true
             },
@@ -1545,7 +1545,7 @@
             ],
             "rel_work_position": {
                 "rel_x": 0.340078786897631,
-                "rel_y": 0.9653805773261378
+                "rel_y": 0.9653805773261377
             },
             "release_actions": [
             ],
@@ -1559,7 +1559,7 @@
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.3860974975593721,
-                    "rel_y": 0.9654696828231725
+                    "rel_y": 0.9654696828231726
                 },
                 "visibility": true
             },
@@ -1597,7 +1597,7 @@
             ],
             "rel_work_position": {
                 "rel_x": 0.3860974975593721,
-                "rel_y": 0.9654696828231725
+                "rel_y": 0.9654696828231726
             },
             "release_actions": [
             ],
@@ -1635,7 +1635,7 @@
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.4327073552425664,
-                    "rel_y": 0.9652294853963836
+                    "rel_y": 0.9652294853963838
                 },
                 "visibility": true
             },
@@ -1664,7 +1664,7 @@
             ],
             "rel_work_position": {
                 "rel_x": 0.4327073552425664,
-                "rel_y": 0.9652294853963836
+                "rel_y": 0.9652294853963838
             },
             "release_actions": [
             ],
@@ -1701,8 +1701,8 @@
                 "description": "",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.12457999357932997,
-                    "rel_y": 0.9031873560053565
+                    "rel_x": 0.12457999357932996,
+                    "rel_y": 0.9031873560053567
                 },
                 "visibility": true
             },
@@ -1739,8 +1739,8 @@
                 "sleep:16500"
             ],
             "rel_work_position": {
-                "rel_x": 0.12457999357932997,
-                "rel_y": 0.9031873560053565
+                "rel_x": 0.12457999357932996,
+                "rel_y": 0.9031873560053567
             },
             "release_actions": [
             ],
@@ -1814,8 +1814,8 @@
                 "description": "",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.03938425021007023,
-                    "rel_y": 0.3260244047537422
+                    "rel_x": 0.04063372959366039,
+                    "rel_y": 0.1839074543466363
                 },
                 "visibility": true
             },
@@ -1826,8 +1826,8 @@
                 "virtual_key": 188
             },
             "rel_work_position": {
-                "rel_x": 0.03938425021007023,
-                "rel_y": 0.3260244047537422
+                "rel_x": 0.04063372959366039,
+                "rel_y": 0.1839074543466363
             },
             "type": "Click"
         },
@@ -1838,8 +1838,8 @@
                 "description": "",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.039384250210070214,
-                    "rel_y": 0.4936755298571686
+                    "rel_x": 0.04188320897725056,
+                    "rel_y": 0.42261705465361576
                 },
                 "visibility": true
             },
@@ -1850,8 +1850,8 @@
                 "virtual_key": 190
             },
             "rel_work_position": {
-                "rel_x": 0.039384250210070214,
-                "rel_y": 0.4936755298571686
+                "rel_x": 0.04188320897725056,
+                "rel_y": 0.42261705465361576
             },
             "type": "Click"
         },
@@ -1925,7 +1925,7 @@
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.7479908151549942,
-                    "rel_y": 0.8142857142857141
+                    "rel_y": 0.814285714285714
                 },
                 "visibility": true
             },
@@ -1937,7 +1937,7 @@
             },
             "rel_work_position": {
                 "rel_x": 0.7479908151549942,
-                "rel_y": 0.8142857142857141
+                "rel_y": 0.814285714285714
             },
             "type": "BunchClick"
         },
@@ -1948,7 +1948,7 @@
                 "description": "",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.8487003331519904,
+                    "rel_x": 0.8487003331519906,
                     "rel_y": 0.9652362874206536
                 },
                 "visibility": true
@@ -1987,7 +1987,7 @@
                 "stop_loop"
             ],
             "rel_work_position": {
-                "rel_x": 0.8487003331519904,
+                "rel_x": 0.8487003331519906,
                 "rel_y": 0.9652362874206536
             },
             "release_actions": [
@@ -2001,7 +2001,7 @@
                 "description": "",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.1222972354505534,
+                    "rel_x": 0.12229723545055342,
                     "rel_y": 0.8158174247117052
                 },
                 "visibility": true
@@ -2013,7 +2013,7 @@
                 "virtual_key": 84
             },
             "rel_work_position": {
-                "rel_x": 0.1222972354505534,
+                "rel_x": 0.12229723545055342,
                 "rel_y": 0.8158174247117052
             },
             "type": "Click"
