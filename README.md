@@ -272,6 +272,8 @@ These keys can be remapped if you do not have them on your keyboard.
 - Co-op.
 ### __R__
 - Co-op.
+### __F__
+- Opens the emote panel in Co-op.
 ### __Shift__
 - Map.
 ### __Tab__
@@ -294,7 +296,7 @@ These keys can be remapped if you do not have them on your keyboard.
 ### __, (Comma)__
 - By default, clicks on the first event in the Ongoing Events list.
   - Place it on the event if it is not first in the Ongoing Events list.
-- If placed on the first event, place it on the bottom edge so that it does not click "Batch Exchange" (Roadmap) or "Check Event Missions!" (Heavenhold Marble, Bingo Machine).
+- If placed on the first event, place it on the top edge so that it does not click "Check Event Missions!", "Batch Exchange", or "Exchange to Gold".
 ### __. (Period or Dot)__
 - By default, clicks on the second event in the Ongoing Events list.
   - Place it on the event if it is not second in the Ongoing Events list.
