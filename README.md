@@ -113,7 +113,6 @@ These keys can be remapped if you do not have them on your keyboard.
   - Modular, can be removed or placed anywhere before or after another modular macro.
 - __Safety__
   - Unsafe, you must not pan or zoom in Heavenhold after loading in.
-  - This macro has not been tested with insufficient Soul Points.
 ### __Shop: N9 (Numpad 9)__
 - Buys the 2,000 free Gold and Level 15 Strengthening Hammer.
 - __Modularity__
@@ -140,6 +139,7 @@ These keys can be remapped if you do not have them on your keyboard.
 - Can be ran after you see Heavenhold.
   - Should be ran after the nightly Stamina mail gets sent, but can be used earlier.
 - Plays `Friend: N2 (Numpad 2)`, `Inn and Little Princess: N7 (Numpad 7)`, and `Vending Machine: N8 (Numpad 8)` first.
+- Plays `Event - Roadmap: 6 (Numrow 6)` by default.
 ### __Dungeon: - (Numrow Minus or Hyphen or Dash)__
 - By default, Sweeps the Red Shard Dungeon 15 times.
   - You should have 150 Stamina.
@@ -167,7 +167,6 @@ These keys can be remapped if you do not have them on your keyboard.
     - Call `sleep 18000` afterward.
 - __Safety__
   - Unsafe, see `Controls` section.
-  - Not tested yet.
 ### __Event - Bingo Machine: 8 (Numrow 8)__
 - Claims Event Missions.
   - Does not use Event Points to draw numbers.
@@ -188,7 +187,6 @@ These keys can be remapped if you do not have them on your keyboard.
     - Call `sleep 18000` afterward.
 - __Safety__
   - Unsafe, see `Controls` section.
-  - Not tested yet.
 ### __Event - Rift: 0 (Numrow 0)__
 - Sweeps the Event Rift 5 times, exchanges Event Coins for both Event Rift Tickets, Sweeps the Event Rift 2 times, claims Event Missions, then claims Event Rewards.
   - "Set to Remaining Free Entries" should already be enabled.
