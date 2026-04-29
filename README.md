@@ -271,6 +271,8 @@ These keys can be remapped if you do not have them on your keyboard.
 - Co-op.
 ### __F__
 - Opens the emote panel in Co-op.
+### __G__
+- Clicks an emote in the emote panel in Co-op.
 ### __Shift__
 - Map.
 ### __Tab__
