@@ -1147,8 +1147,8 @@
             "key": {
                 "device": "keyboard",
                 "scan_code": 60,
-                "text": "F2",
-                "virtual_key": 113
+                "text": "Shift",
+                "virtual_key": 16
             },
             "rel_work_position": {
                 "rel_x": 0.10582278481012664,
