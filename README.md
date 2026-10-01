@@ -40,6 +40,7 @@ These keys can be remapped if you do not have them on your keyboard.
 - It is assumed that you do not move the macros out of their default order in the compilation macros.
   - Although most macros are theoretically modular, the compilation macros have not been tested with the macros in a different order.
   - If you move a macro out of order anyway, it must be bundled with the `sleep X` (where X is a number) call that followed it.
+  - To remove a macro, erase `key_press Key`, `key_release Key`, and the following `sleep X` from `Dailies: PageUp (pg up)` or `Nightlies: PageDn (pg dn)`.
 - It is assumed that you have already unlocked everything.
   - The macros are not designed to handle unlocking animations, tutorials, story scenes, or the inability to Sweep.
   - It is recommended to reach the highest stage you can clear before Sweeping.
@@ -61,7 +62,6 @@ These keys can be remapped if you do not have them on your keyboard.
 - __Modularity__
   - Not modular, should be the first macro ran in `Dailies: PageUp (pg up)`.
   - Can be removed from `Dailies: PageUp (pg up)`, but you will need to manually go through every attendance check and package popup.
-    - To remove, erase `key_press N1`, `key_release N1`, and the following `sleep 14050` from `Dailies: PageUp (pg up)`.
 - __Safety__
   - Unsafe, the compilation macro may not function as intended if this macro does not successfully go through every attendance check and package popup.
     - If this macro calls `key_press T`, but there is no package popup, it will click on the Hero button, making the compilation macro not function as intended.
@@ -232,10 +232,9 @@ These keys can be remapped if you do not have them on your keyboard.
 - __Safety__
   - Unsafe, every ad you get must be escapable with the back button, and must not send you to another app.
 ## Colosseum: Delete (del)
-- By default, not included in the `Dailies: PageUp (pg up)` compilation macro.
-- By default, not included in the `Nightlies: PageDown (pg dn)` compilation macro.
 - Can be ran after you see Heavenhold.
 - Attacks the third slot in Colosseum 5 times using the currently set team.
+  - Refreshes the opponent after a loss.
 - On 1x speed, an attack may last up to 2 minutes, but this macro only waits for 1 minute 15 seconds before clicking Confirm.
   - If the macro clicks Confirm too early, it will not use 5 Colosseum Entry tickets.
   - Most attacks will not take that long even on 1x speed.
