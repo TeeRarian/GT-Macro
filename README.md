@@ -26,7 +26,7 @@ MuMuPlayer, or MuMu, is an Android emulator. These macros were created in MuMu, 
 10. Click on one of the newly added key bind schemes.
 11. Click "Apply".
 
-The reason for step 9 is because having both versions will make editing the macros less inconvenient when 2 concurrent events with Event Points start and end.
+The reason for step 9 is that having both versions will make editing the macros less inconvenient when 2 concurrent events with Event Points start and end.
 
 # Usage
 - For your login in the morning, press PageUp (pg up) on your keyboard after you see the Attendance Check.
