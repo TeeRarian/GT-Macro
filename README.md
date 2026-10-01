@@ -142,6 +142,7 @@ These keys can be remapped if you do not have them on your keyboard.
   - Should be ran after the nightly Stamina mail gets sent, but can be used earlier.
 - Plays `Friend: N2 (Numpad 2)`, `Inn and Little Princess: N7 (Numpad 7)`, and `Vending Machine: N8 (Numpad 8)` first.
 - Plays `Event - Roadmap: 6 (Numrow 6)` by default.
+  - This is true for both files, so be sure to edit them if necessary.
 ### __Dungeon: - (Numrow Minus or Hyphen or Dash)__
 - By default, Sweeps the Red Shard Dungeon 15 times.
   - You should have 150 Stamina.
@@ -265,6 +266,7 @@ These keys can be remapped if you do not have them on your keyboard.
 - Rapidly spams 2nd skill.
 ### __1234__
 - Chain Skills.
+  - You will rarely use a team where all 4 show up simultaneously, so I set the order to 4123, as that makes clicking them more intuitive.
 ### __Q__
 - Leader skill.
 ### __E__
