@@ -1,8 +1,14 @@
 # Description
-Guardian Tales is a game designed to make you to log in at least once in the morning and once at night.
-These macros do what you should be doing on your account for your first login and last logins of the day.
-However, they do not do what you should be doing on your account every week, such as buying certain items that reset weekly from the Shop.
-They also do not do anything that heavily desires manual input, such as Arena, Master Arena, Death Match, or Co-op Expedition.
+Guardian Tales is a game designed to make you to log in at least twice per day.
+These macros automate your first and last logins of the day by doing daily tasks everybody should be doing to not brick their account.
+However, they do not automate everything. Examples include but are not limited to:
+- Farm.
+- Monster Ranch.
+- Raid/Meteor Excavation/Dungeon Kingdom Arena.
+- Arena/Death Match.
+- Co-op Expedition.
+- Buying certain items in the Shop that reset weekly, biweekly, or monthly.
+- Exchanging Awakening Stones.
 
 # [Download MuMuPlayer](https://www.mumuplayer.com)
 MuMuPlayer, or MuMu, is an Android emulator. These macros were created in MuMu, and I am not aware of any other emulators that they are compatible with.
@@ -20,14 +26,10 @@ MuMuPlayer, or MuMu, is an Android emulator. These macros were created in MuMu, 
 10. Click on one of the newly added key bind schemes.
 11. Click "Apply".
 
-In step 7, you can select "com.kakaogames.gdts-Guardian Tales with Colosseum.json" instead if you want the compilation macros to do Colosseum for you.
-
-In step 9, you can select "com.kakaogames.gdts-Guardian Tales 2 Events with Colosseum.json" instead if you want the compilation macros to do Colosseum for you.
-
-The reason for step 9 is because having both versions will make it easier to edit the macros when 2 concurrent events with Event Points start and end.
+The reason for step 9 is because having both versions will make editing the macros less inconvenient when 2 concurrent events with Event Points start and end.
 
 # Usage
-- For your login in the morning, press PageUp (pg up) on your keyboard after the first Attendance Check shows up on top of Heavenhold.
+- For your login in the morning, press PageUp (pg up) on your keyboard after you see the Attendance Check.
 - For your login at night, Press PageDown (pg dn) on your keyboard after you see Heavenhold.
 
 These keys can be remapped if you do not have them on your keyboard.
@@ -35,9 +37,9 @@ These keys can be remapped if you do not have them on your keyboard.
 # Important Notes
 - Some macros may require you to make changes for the compilation macro to function as intended.
   - If the compilation macro does not function as intended, it may waste resources on your account.
-- If you move a macro out of order, it must be bundled with the `sleep X` (where X is a number) call that followed it.
 - It is assumed that you do not move the macros out of their default order in the compilation macros.
   - Although most macros are theoretically modular, the compilation macros have not been tested with the macros in a different order.
+  - If you move a macro out of order anyway, it must be bundled with the `sleep X` (where X is a number) call that followed it.
 - It is assumed that you have already unlocked everything.
   - The macros are not designed to handle unlocking animations, tutorials, story scenes, or the inability to Sweep.
   - It is recommended to reach the highest stage you can clear before Sweeping.
@@ -59,7 +61,7 @@ These keys can be remapped if you do not have them on your keyboard.
 - __Modularity__
   - Not modular, should be the first macro ran in `Dailies: PageUp (pg up)`.
   - Can be removed from `Dailies: PageUp (pg up)`, but you will need to manually go through every attendance check and package popup.
-    - To remove, erase `key_press N1`, `key_release N1`, and the following `sleep 9000` from `Dailies: PageUp (pg up)`.
+    - To remove, erase `key_press N1`, `key_release N1`, and the following `sleep 14050` from `Dailies: PageUp (pg up)`.
 - __Safety__
   - Unsafe, the compilation macro may not function as intended if this macro does not successfully go through every attendance check and package popup.
     - If this macro calls `key_press T`, but there is no package popup, it will click on the Hero button, making the compilation macro not function as intended.
@@ -153,7 +155,7 @@ These keys can be remapped if you do not have them on your keyboard.
 - __Modularity__
   - Modular, can be removed or placed anywhere before or after another modular macro.
   - Replaces the event macro called in `Nightlies: PageDown (pg dn)`, or is called after it if there are 2 concurrent events with Event Points.
-    - Call `sleep 18000` afterward.
+    - Call `sleep 18015` afterward.
 - __Safety__
   - Unsafe, see `Controls` section.
 ### __Event - Heavenhold Marble: 7 (Numrow 7)__
@@ -164,7 +166,7 @@ These keys can be remapped if you do not have them on your keyboard.
 - __Modularity__
   - Modular, can be removed or placed anywhere before or after another modular macro.
   - Replaces the event macro called in `Nightlies: PageDown (pg dn)`, or is called after it if there are 2 concurrent events with Event Points.
-    - Call `sleep 18000` afterward.
+    - Call `sleep 18015` afterward.
 - __Safety__
   - Unsafe, see `Controls` section.
 ### __Event - Bingo Machine: 8 (Numrow 8)__
@@ -174,7 +176,7 @@ These keys can be remapped if you do not have them on your keyboard.
 - __Modularity__
   - Modular, can be removed or placed anywhere before or after another modular macro.
   - Replaces the event macro called in `Nightlies: PageDown (pg dn)`, or is called after it if there are 2 concurrent events with Event Points.
-    - Call `sleep 18000` afterward.
+    - Call `sleep 18015` afterward.
 - __Safety__
   - Unsafe, see `Controls` section.
 ### __Event - Giant Capsule Machine: 9 (Numrow 9)__
@@ -184,7 +186,7 @@ These keys can be remapped if you do not have them on your keyboard.
 - __Modularity__
   - Modular, can be removed or placed anywhere before or after another modular macro.
   - Replaces the event macro called in `Nightlies: PageDown (pg dn)`, or is called after it if there are 2 concurrent events with Event Points.
-    - Call `sleep 18000` afterward.
+    - Call `sleep 18015` afterward.
 - __Safety__
   - Unsafe, see `Controls` section.
 ### __Event - Rift: 0 (Numrow 0)__
@@ -194,7 +196,7 @@ These keys can be remapped if you do not have them on your keyboard.
 - __Modularity__
   - Modular, can be removed or placed anywhere before or after another modular macro.
   - Replaces the event macro called in `Nightlies: PageDown (pg dn)`, or is called after it if there are 2 concurrent events with Event Points.
-    - Call `sleep 67500` afterward.
+    - Call `sleep 67525` afterward.
 - __Safety__
   - Unsafe, see `Controls` section.
 ### __Mystery Evolution: + (Numpad Plus)__
@@ -225,7 +227,7 @@ These keys can be remapped if you do not have them on your keyboard.
 - __Modularity__
   - Modular, can be removed or placed anywhere before or after another modular macro, although HIGHLY discouraged because it is susceptible to not function as intended.
   - Recommended to be placed last in either `Dailies: PageUp (pg up)` or `Nightlies: PageDown (pg dn)`.
-    - Call `sleep 617000` afterward.
+    - Call `sleep 618400` afterward.
 - __Safety__
   - Unsafe, every ad you get must be escapable with the back button, and must not send you to another app.
 ## Colosseum: Delete (del)
@@ -239,9 +241,9 @@ These keys can be remapped if you do not have them on your keyboard.
 - __Modularity__
   - Modular, can be removed or placed anywhere before or after another modular macro.
   - Recommended to be placed between `Mission Book: N0 (Numpad 0)` and `Stamina/Coffee: * (Numpad Asterisk)` in `Dailies: PageUp (pg up)`.
-    - Call `sleep 463500` afterward.
+    - Call `sleep 463510` afterward.
   - Recommended to be placed between `Pass: / (Slash)` and `Mailbox: = (Equals)` in `Nightlies: PageDown (pg dn)`.
-    - Call `sleep 463500` afterward.
+    - Call `sleep 463510` afterward.
 ## Excavation Camp: End (end)
 - By default, not included in the `Dailies: PageUp (pg up)` compilation macro.
 - By default, not included in the `Nightlies: PageDown (pg dn)` compilation macro.
@@ -294,14 +296,18 @@ These keys can be remapped if you do not have them on your keyboard.
 - Affects `Dungeon: - (Numrow Minus or Hyphen or Dash)`.
 ### __, (Comma)__
 - By default, clicks on the first event in the Ongoing Events list.
-  - Place it on the event if it is not first in the Ongoing Events list.
-- If placed on the first event, place it on the top edge so that it does not click "Check Event Missions!", "Batch Exchange", or "Exchange to Gold".
+  - It should be placed on the top edge so that it does not click "Check Event Missions!", "Batch Exchange", or "Exchange to Gold".
+- Sometimes, the first event with Event Points will be second on the list.
+  - Replace `,` (comma) with `.` (period or dot) in the event macro.
+    - Revert this change after that is no longer the case.
+- Sometimes, the second event with Event Points will be third on the list.
+  - Place it on that event.
+    - Revert this change after that is no longer the case.
 ### __. (Period or Dot)__
 - By default, clicks on the second event in the Ongoing Events list.
-  - Place it on the event if it is not second in the Ongoing Events list.
 - Meant to be used when there are 2 concurrent events with Event Points.
   - Replace `,` (comma) with `.` (period or dot) in the event macro.
-    - Revert this change after the double event period ends.
+    - Revert this change after that is no longer the case.
 ### __T__
 - Clicks the area where the box next to "Do not display again today." on the package popup is.
   - The `Dailies: PageUp (pg up)` section explains how to use it.
